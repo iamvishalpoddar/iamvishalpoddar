@@ -23,15 +23,15 @@
 
 📌 **Projects**
 
-### 🎬 FilmVault [🔗Code](#)
+### 🎬 FilmVault
 Full-stack movie management web app with Flask + Vite.  
 - JWT authentication, admin dashboard, CSV ingestion, RESTful API, responsive UI.
 
-### 💰 Finance Flow [🔗Code](#)
+### 💰 Finance Flow
 A personal finance tracker built using Flask & MongoDB.  
 - Features budgeting, dashboards, charts, transaction tracking, and secure login.
 
-### 🔐 FlaskMongoJWTAuth [🔗Code](#)
+### 🔐 FlaskMongoJWTAuth
 Authentication system with Flask, MongoDB & JWT.  
 - Registration, login, hashed passwords, token-based sessions, and route protection.
 
